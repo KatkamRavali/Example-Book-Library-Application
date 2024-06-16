@@ -1,0 +1,24 @@
+{
+  "name": "example-book-library",
+  "version": "1.0.0",
+  "description": "library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatkamRavali/Example-Book-Library-Application.git"
+  },
+  "author": "Ravali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatkamRavali/Example-Book-Library-Application/issues"
+  },
+  "homepage": "https://github.com/KatkamRavali/Example-Book-Library-Application#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.2"
+  }
+}
